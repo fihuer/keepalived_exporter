@@ -1,2 +1,6 @@
 # keepalived_exporter
-A keepalived exporter using keepalived's dbus interface
+A keepalived prometheus exporter using keepalived's dbus interface
+
+# Build
+
+    go build .
